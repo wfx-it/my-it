@@ -1,0 +1,14 @@
+# 第四次练习：文件操作（2026.09）
+
+## 我敲的命令
+- mkdir test-lab → 建文件夹
+- cd test-lab → 进去
+- echo "hello git bash" > a.txt → 写文件
+- cat a.txt → 看文件内容
+- ls -la → 看目录里有什么
+
+## 我学到的
+- > 是重定向，把命令输出存成文件
+- cat 用来看文件内容
+- ls -la 能看到隐藏文件
+- 动手前先 pwd 确认位置
