@@ -1,0 +1,14 @@
+# 第三次练习：Git Bash 初次使用（2026.09）
+
+## 我敲的命令
+- uname -a → 查看系统信息
+- pwd → 我在哪
+- ls -la → 列出所有文件（含隐藏文件）
+- whoami → 我是谁
+- git clone → 把仓库下载到本地
+
+## 我学到的
+- Windows 路径 C:\Users\ 在 Git Bash 里写成 /c/Users/，斜杠方向相反
+- ls -l 第一列是权限，d 开头是文件夹，l 开头是快捷方式
+- .git 是仓库的核心目录，不能删
+- 国内连 GitHub 经常断，用 ghfast.top 镜像可以解决
